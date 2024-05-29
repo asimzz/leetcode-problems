@@ -5,6 +5,8 @@ Time complexity: O(n.klogk)
 Space complexity: O(n)
 
 Where n is the number of strings in the list `strs`, and k is the average length of the strings.
+
+link: https://leetcode.com/problems/group-anagrams/description/
 '''
 
 def groupAnagrams(strs: List[str]) -> List[List[str]]:

@@ -5,6 +5,8 @@ Time complexity: O(n)
 Space complexity: O(n)
 
 Where n is the number of elements in the list `nums`.
+
+link: https://leetcode.com/problems/two-sum/description/
 '''
 
 def twoSum(nums: List[int], target: int) -> List[int]:
